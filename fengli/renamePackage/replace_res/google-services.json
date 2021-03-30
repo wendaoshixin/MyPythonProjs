@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905707311093",
+    "firebase_url": "https://palmapp-8c73a.firebaseio.com",
+    "project_id": "palmapp-8c73a",
+    "storage_bucket": "palmapp-8c73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905707311093:android:3fd8a460dc4be24d",
+        "android_client_info": {
+          "package_name": "com.hzay.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905707311093-oq2go390nushf6rkifbei0fa1mdl015p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSHdn_t7i5deCDMZm2mVVIqh2OTUhfwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

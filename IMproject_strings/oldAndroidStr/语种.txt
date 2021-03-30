@@ -1,0 +1,19 @@
+Key	English	comment	
+ES（西班牙语）	
+PT（葡萄牙语）	
+FR（法语）	
+Arabic（阿拉伯语)(ar)	
+SWAHILI（中斯瓦西里语）(sw )	
+Hausa（豪萨语）(ha)	
+Amharic（埃塞的阿姆哈拉语）(am_ET)	
+泰语Thai(th_TH)	
+印尼语Indonesian(id_ID)	
+越南语Vietnamese(vi_VN)	
+孟加拉语Bengali(bn_BD)	
+乌尔都语Urdu(ur_PK)	
+波斯语(fa_IR)	
+印地语Hindi   (hi_IN)	
+希伯来语Hebrew (he)	
+菲律宾他加禄语Tagalog   (tl_ph)	
+提格雷语(ti)	
+奥罗莫语(om)

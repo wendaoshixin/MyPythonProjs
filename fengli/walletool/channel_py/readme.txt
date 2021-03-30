@@ -1,0 +1,1 @@
+python ApkResigner.py app_release_V1.0.5.20210310122540_10520210310122540_jiagu_sign.apk
